@@ -8,6 +8,8 @@ Simple unfinished discord bot with some commands as this is just so i can access
 
 # Setup
 Add your bot token and owner ID to the example.env.txt (rename example.env.txt --> .env)
+``` BOT_TOKEN=
+BOT_OWNER_ID=```
 
-# Enjpy the template or whatever you would download this for 
+# Enjoy the template or whatever you would download this for 
 This will be updated alot as this is just a place to store my code 😁
